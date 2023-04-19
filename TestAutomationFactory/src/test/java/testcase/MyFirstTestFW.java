@@ -11,7 +11,7 @@ import org.testng.Assert;
 import utilities.ReadXlData;
 
 
-public class MyFirstTestFW extends BaseTest{
+public class FirstTestFW extends BaseTest{
 
 	    @Test
 	    public static void LoginTest()
